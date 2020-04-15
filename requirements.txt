@@ -1,0 +1,2 @@
+openpyxl==3.0.3
+googletrans==2.4.0
